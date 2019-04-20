@@ -1,4 +1,4 @@
-# FAIO-Sip-And-Puff Switch 
+# FAIO_Sip-And-Puff Switch 
 
 FAIO Multiplexer is an open-source Assistive technology wing for Adafruit Feather boards which enables those with limited or no hand movement to use Sip and puff as an input method to replace both keyboard and mouse.
 
@@ -20,50 +20,50 @@ These are all the files and documentation associated with the FAIO Sip-And-Puff 
     <th>Link</th>
   </tr>
     <tr>
-    <td>FAIO Multiplexer All</td>
-    <td>2.0</td>
+    <td>FAIO Sip-And-Puff</td>
+    <td>1.0</td>
     <td>ZIP</td>
-    <td><a href="https://github.com/milador/FAIO-Sip-And-Puff/archive/master.zip">FAIO-Sip-And-Puff-master.zip</a></td>
+    <td><a href="https://github.com/milador/FAIO_Sip-And-Puff/archive/master.zip">FAIO_Sip-And-Puff-master.zip</a></td>
   </tr>
   <tr>
-    <td>FAIO-Sip-And-Puff Manual</td>
+    <td>FAIO_Sip-And-Puff Manual</td>
     <td></td>
     <td>PDF</td>
     <td><a href=""> </a></td>
   </tr>
   <tr>
-    <td>FAIO-Sip-And-Puff Switch BOM (csv)</td>
+    <td>FAIO_Sip-And-Puff Switch BOM (csv)</td>
     <td>February 18, 2019</td>
     <td>CSV</td>
-    <td><a href="https://github.com/milador/FAIO-Sip-And-Puff/blob/master/Components/FAIO-Sip-And-Puff_BOM.csv">FAIO-Sip-And-Puff_BOM.csv</a></td>
+    <td><a href="https://github.com/milador/FAIO_Sip-And-Puff/blob/master/Components/FAIO_Sip-And-Puff_BOM.csv">FAIO_Sip-And-Puff_BOM.csv</a></td>
   </tr>
   <tr>
-    <td>FAIO-Sip-And-Puff USB Software</td>
+    <td>FAIO_Sip-And-Puff USB Software</td>
     <td>1.0</td>
     <td>Ino</td>
     <td></td>
   </tr>
   <tr>
-    <td>FAIO-Sip-And-Puff Switch Board Layout</td>
+    <td>FAIO_Sip-And-Puff Switch Board Layout</td>
     <td>1.0</td>
     <td>BRD</td>
-    <td><a href="https://raw.githubusercontent.com/milador/FAIO-Sip-And-Puff/master/Hardware/PCB_design/FAIO-Sip-And-Puff.brd">FAIO-Sip-And-Puff.brd</a></td>
+    <td><a href="https://raw.githubusercontent.com/milador/FAIO_Sip-And-Puff/master/Hardware/PCB_design/FAIO_Sip-And-Puff.brd">FAIO_Sip-And-Puff.brd</a></td>
   </tr>
   <tr>
-    <td>FAIO-Sip-And-Puff Switch Board Schematic</td>
+    <td>FAIO_Sip-And-Puff Switch Board Schematic</td>
     <td>1.0</td>
     <td>SCH</td>
-    <td><a href="https://raw.githubusercontent.com/milador/FAIO-Sip-And-Puff/master/Hardware/PCB_design/FAIO-Sip-And-Puff.sch">FAIO-Sip-And-Puff.sch</a></td>
+    <td><a href="https://raw.githubusercontent.com/milador/FAIO_Sip-And-Puff/master/Hardware/PCB_design/FAIO_Sip-And-Puff.sch">FAIO_Sip-And-Puff.sch</a></td>
   </tr>
 </table> 
 
 # Usage
 
-The FAIO-Sip-And-Puff interface can operate in 2 modes and 3.5 mm switch is used to switch between keyboard mode and mouse mode. 
+The FAIO_Sip-And-Puff interface can operate in 2 modes and 3.5 mm switch is used to switch between keyboard mode and mouse mode. 
 The switch is also used to switch it between USB and Bluetooth when it's in configuration mode. The RGB Led blinks 2 times to indicate the current mode.
 
 <p align="center">
-<img align="center" src="https://raw.githubusercontent.com/milador/FAIO-Sip-And-Puff/master/Resources/Images/faio_sipandpuff.png" width="50%" height="50%" alt="FAIO-Sip-And-Puff"/>
+<img align="center" src="https://raw.githubusercontent.com/milador/FAIO_Sip-And-Puff/master/Resources/Images/faio_sipandpuff.png" width="50%" height="50%" alt="FAIO_Sip-And-Puff"/>
 </p>
 
 ## USB or Bluetooth Switch mode
