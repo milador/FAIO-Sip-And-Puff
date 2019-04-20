@@ -6,7 +6,7 @@ FAIO Multiplexer supports following modes:
 
 * Morse Keyboard Mode ( HID Keyboard )
 * Morse Mouse Mode ( HID Mouse )
-The 
+
 
 # Downloads 
 
