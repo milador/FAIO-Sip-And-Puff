@@ -2,10 +2,11 @@ Index,Quantity,Digikey Part Number,Manufacturer Part Number,Description,Unit Pri
 1,1,1528-1514-ND,2771,FEATHER 32U4 BASIC PROTO,19.95,,https://www.digikey.com/product-detail/en/adafruit-industries-llc/2771/1528-1514-ND/
 2,1,1568-1213-ND,COM-12986,ADDRESS LED DISC SER RGB 5MM 5PC,2.95,,https://www.digikey.com/products/en?keywords=COM-12986
 3,1,1528-1560-ND,2886,FEATHER HEADER KIT FML,0.95,,https://www.digikey.com/product-detail/en/adafruit-industries-llc/2886/1528-1560-ND/ 
-4,1,CF14JT4K70CT-ND,CF14JT4K70,RES 470K OHM 1/4W 5% AXIAL,0.1,,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT4K70/CF14JT4K70CT-ND 
+4,1,CF14JT470RCT-ND,CF14JT470R,RES 470 OHM 1/4W 5% AXIAL ,0.1,,https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT470R/CF14JT470RCT-ND/1830342
 5,1,CP1-3535NG-ND,"	SJ1-3535NG",CONN JACK STEREO 3.5MM R/A,1.25,,https://www.digikey.com/product-detail/en/cui-inc/SJ1-3535NG/CP1-3535NG-ND 
 6,1,INA122PA-ND,INA122PA,IC OPAMP INSTR 120KHZ 8DIP,6.57,,https://www.digikey.com/product-detail/en/texas-instruments/INA122PA/INA122PA-ND/300981
 7,1,2.4KQBK-ND,CFR-25JB-52-2K4,RES 2.4K OHM 1/4W 5% AXIAL,0.1,,https://www.digikey.com/product-detail/en/yageo/CFR-25JB-52-2K4/2.4KQBK-ND/675
 8,1,BC1160CT-ND,K104Z15Y5VF5TL2,CAP CER 0.1UF 50V Y5V RADIAL,0.24,,https://www.digikey.com/product-detail/en/vishay-bc-components/K104Z15Y5VF5TL2/BC1160CT-ND/286782
 9,1,S5479-ND,PPPC041LGBN-RC,"CONN FEMALE 4POS .100"" R/A GOLD",0.57,,https://www.digikey.com/product-detail/en/sullins-connector-solutions/PPPC041LGBN-RC/S5479-ND/775937
-,,,,,Subtotal,32.68,
+10,1,MPX12GP-ND,MPX12GP,SENSOR GAUGE PRESS 1.45PSI MAX,12.87,,https://www.digikey.com/product-detail/en/nxp-usa-inc/MPX12GP/MPX12GP-ND/951783
+,,,,,Subtotal,45.55,
